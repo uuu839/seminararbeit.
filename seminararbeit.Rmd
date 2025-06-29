@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-author: "Yizhou Sun"
+author: "Anonymous"
 date: "2025-05-03"
 output:
   pdf_document: default
